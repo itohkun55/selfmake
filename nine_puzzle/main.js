@@ -1,3 +1,16 @@
+﻿/*
+
+	初回コミット
+	現在での問題点
+	・CSSのアニメーションは何も使っていない
+	・for文をそのまま使いすぎ、iteratorを使う
+	・個数の変更が効かない
+	・ログ大杉
+	・this.layoutSetに直にdom(marker)を本当に付けられないか？
+	
+
+*/
+
 document.addEventListener('DOMContentLoaded', function () {
     markers=document.querySelectorAll('.marker');
 
