@@ -1,0 +1,16 @@
+.marker {
+  position: absolute;
+  content: "";
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border: 1px solid;
+  border-radius: 5px;
+  font-size: 36px;
+}
+
+.marker .title {
+  margin: auto;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

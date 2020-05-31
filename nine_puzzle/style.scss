@@ -1,0 +1,22 @@
+.marker{
+    position: absolute;;
+    content:"";
+    width:100px;
+    height: 100px;
+    background-color:red;
+    border:1px solid;
+    border-radius:5px;
+    //padding: 5px;
+    //top:0px;
+    //left:0px;
+    font-size: 36px;
+
+    .title{
+        margin:auto;
+    
+        text-align: center;
+
+    }
+}
+
+
