@@ -1,0 +1,26 @@
+export const PUSH_SHOW_MEMO_BUTTON="PUSH_SHOW_MEMO_BUTTON";
+export const PRIVATE ='PRIVATE';
+export const TEAM ='TEAM';
+export const CLOSE_MEMOMAKE='CLOSE_MEMOMAKE';
+export const CLOSE_PASSWORD='CLOSE_PASSWORD';
+export const OPEN_PASSWORD='OPEN_PASSWORD';
+export const LOAD_NEW_MEMO="LOAD_NEW_MEMO";
+export const RESET_MEMO="RESET_MEMO";
+export const USER_LOGIN="USER_LOGIN";
+export const DONE_LOGOUT="DONE_LOGOUT";
+
+export const SHOW_REPLY="SHOW_REPLY";
+export const TAGGED_START="TAGGED_START";
+export const TAGGED_SEARCH="TAGGED_SEARCH";
+
+export const PUSH_NEW_MEMO="PUSH_NEW_MEMO";
+export const PUSH_PASSWORD="PUSH_PASSWORD";
+export const DELETE_MEMO="DELETE_MEMO";
+export const AUTH_START = "AUTH_START";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+export const GET_MEMO_REQUEST="GET_MEMO_REQUEST";
+export const GET_MEMO_SUCCESS="GET_MEMO_SUCCESS";
+export const GET_MEMO_FAILURE="GET_MEMO_FAILURE";
+
